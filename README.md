@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=vrpf)
+![Visitor Count](https://profile-counter.glitch.me/vrpf/count.svg)
